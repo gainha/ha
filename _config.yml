@@ -1,0 +1,20 @@
+title:              "Portfolio"
+tagline:            "Marketing specialist"
+email:              "gainha07@gmail.com"
+description:        "portfolio"
+author:             "Ga-in, Ha"
+baseurl:            "/"
+url:                "https://github.com/ga-in/ha.github.io"
+locale:             "ko_KR"
+thumbnail:          "/img/thumbnail.jpg"
+
+# Social Profiles
+linkedin_username:  ga-in
+
+# Build settings
+markdown:           kramdown
+permalink:          /:title
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-paginate
