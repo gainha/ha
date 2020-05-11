@@ -16,17 +16,17 @@ tags:
 description: 'Ga-in, Ha'
 ---
 <pre>
-![1](https://drive.google.com/uc?id=1aKiETXtyOuciz2Rt9u5t4da_Ob8nMp3G)
+![1](/img/posts/category/Portfolio-page-001.jpg)
 
-![2](https://drive.google.com/uc?id=1BbwmriIYZ3lkij3UcEDgY0w7S7YL5kQJ)
+![2](/img/posts/category/Portfolio-page-002.jpg)
 
-![3](https://drive.google.com/uc?id=1fkQ5kjBvSEa5rQ7sCloMxgHeMnpvl8Xd)
+![3](/img/posts/category/Portfolio-page-003.jpg)
 
-![4](https://drive.google.com/uc?id=1RK_R16hNgEWe-dqvV1p5xZm9YMaf79TK)
+![4](/img/posts/category/Portfolio-page-004.jpg)
 
-![5](https://drive.google.com/uc?id=1Z8ysNBWVEOXz7PM9GwqV54rJ25aLFHOv)
+![5](/img/posts/category/Portfolio-page-005.jpg)
 
-![6](https://drive.google.com/uc?id=1e6EPC4wy6wQ0hsYkm2RBYYsyFrRLTIMN)
+![6](/img/posts/category/Portfolio-page-006.jpg)
 
-![7](https://drive.google.com/uc?id=1VMAfv7baSDlXMOvXdoXMrMWnHrHQzPfS)
+![7](/img/posts/category/Portfolio-page-007.jpg)
 </pre>
