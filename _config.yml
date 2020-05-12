@@ -4,7 +4,7 @@ email:              "gainha07@gmail.com"
 description:        "portfolio"
 author:             "Ga-in, Ha"
 baseurl:            "/"
-url:                "https://github.com/ga-in/ha.github.io"
+url:                "https://gainha.github.io/ha/"
 locale:             "ko_KR"
 thumbnail:          "/img/thumbnail.jpg"
 
