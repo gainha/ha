@@ -21,8 +21,6 @@ plugins:
 
 ...
 
-gems:
-    - jekyll-paginate-v2
 
 pagination:
     enabled: true
