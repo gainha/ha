@@ -5,8 +5,8 @@
     <description>portfolio</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 10 Oct 2020 14:00:42 +0900</pubDate>
-    <lastBuildDate>Sat, 10 Oct 2020 14:00:42 +0900</lastBuildDate>
+    <pubDate>Sat, 10 Oct 2020 14:35:03 +0900</pubDate>
+    <lastBuildDate>Sat, 10 Oct 2020 14:35:03 +0900</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -16,7 +16,7 @@
 &lt;head&gt;&lt;meta charset=&quot;utf-8&quot; /&gt;
 &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
 
-&lt;title&gt;predict_bitcoin&lt;/title&gt;&lt;script src=&quot;https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js&quot;&gt;&lt;/script&gt;
+&lt;title&gt;비트코인 시세 예측하기&lt;/title&gt;&lt;script src=&quot;https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js&quot;&gt;&lt;/script&gt;
 
 
 
@@ -14281,7 +14281,7 @@ a.anchor-link {
 &lt;div class=&quot;jp-CodeMirrorEditor jp-Editor jp-InputArea-editor&quot; data-type=&quot;inline&quot;&gt;
      &lt;div class=&quot;CodeMirror cm-s-jupyter&quot;&gt;
 &lt;div class=&quot; highlight hl-ipython3&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;# -*- coding : utf-8 -*-&lt;/span&gt;
-&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;matplotlib&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;inline&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;matplotlib&lt;/span&gt; inline
 
 &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;pandas&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;pd&lt;/span&gt;
 &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;numpy&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;np&lt;/span&gt;
@@ -15731,8 +15731,10 @@ MA.2           -1.7068           +0.0000j            1.7068            0.5000
 &lt;/html&gt;
 </description>
         <pubDate>Sat, 10 Oct 2020 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000//predict_bitcoin</link>
-        <guid isPermaLink="true">http://localhost:4000//predict_bitcoin</guid>
+        <link>http://localhost:4000//%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8-%EC%8B%9C%EC%84%B8-%EC%98%88%EC%B8%A1%ED%95%98%EA%B8%B0</link>
+        <guid isPermaLink="true">http://localhost:4000//%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8-%EC%8B%9C%EC%84%B8-%EC%98%88%EC%B8%A1%ED%95%98%EA%B8%B0</guid>
+        
+        <category>data analysis</category>
         
         
         <category>dastudy</category>
@@ -15740,13 +15742,13 @@ MA.2           -1.7068           +0.0000j            1.7068            0.5000
       </item>
     
       <item>
-        <title>국가별 음주 데이터 분석 예제</title>
+        <title>국가별 음주 데이터 분석 연습문제</title>
         <description>&lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;head&gt;&lt;meta charset=&quot;utf-8&quot; /&gt;
 &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
 
-&lt;title&gt;drink(2)&lt;/title&gt;&lt;script src=&quot;https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js&quot;&gt;&lt;/script&gt;
+&lt;title&gt;국가별 음주 데이터 분석 연습문제&lt;/title&gt;&lt;script src=&quot;https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js&quot;&gt;&lt;/script&gt;
 
 
 
@@ -30465,12 +30467,10 @@ Name: alcohol_rate_rank, dtype: float64&lt;/pre&gt;
 
 &lt;/html&gt;
 </description>
-        <pubDate>Thu, 27 Feb 2020 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000//drink_practice</link>
-        <guid isPermaLink="true">http://localhost:4000//drink_practice</guid>
+        <pubDate>Sun, 15 Mar 2020 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000//%EA%B5%AD%EA%B0%80%EB%B3%84-%EC%9D%8C%EC%A3%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C</link>
+        <guid isPermaLink="true">http://localhost:4000//%EA%B5%AD%EA%B0%80%EB%B3%84-%EC%9D%8C%EC%A3%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C</guid>
         
-        
-        <category>dastudy</category>
         
       </item>
     
@@ -30481,7 +30481,7 @@ Name: alcohol_rate_rank, dtype: float64&lt;/pre&gt;
 &lt;head&gt;&lt;meta charset=&quot;utf-8&quot; /&gt;
 &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
 
-&lt;title&gt;drink&lt;/title&gt;&lt;script src=&quot;https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js&quot;&gt;&lt;/script&gt;
+&lt;title&gt;국가별 음주 데이터 분석&lt;/title&gt;&lt;script src=&quot;https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js&quot;&gt;&lt;/script&gt;
 
 
 
@@ -45841,8 +45841,8 @@ Name: total_litres_of_pure_alcohol, dtype: float64
 &lt;span class=&quot;n&quot;&gt;tTestResultDiffVar&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;stats&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ttest_ind&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;africa&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;beer_servings&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt;
                                   &lt;span class=&quot;n&quot;&gt;europe&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;beer_servings&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;equal_var&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;kc&quot;&gt;False&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 
-&lt;span class=&quot;nb&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;The t-statistic and p-value assuming equal variances is &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%.3f&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt; and &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%.3f&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tTestResult&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;#두 집단의 분산이 같은 경우&lt;/span&gt;
-&lt;span class=&quot;nb&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;The t-statistic and p-value not assuming equal variances is &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%.3f&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt; and &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%.3f&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tTestResultDiffVar&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;#두 집단의 분산이 같지 않은 경우&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;The t-statistic and p-value assuming equal variances is &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%.3f&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt; and &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%.3f&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;tTestResult&lt;/span&gt;) #두 집단의 분산이 같은 경우
+&lt;span class=&quot;nb&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;The t-statistic and p-value not assuming equal variances is &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%.3f&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt; and &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%.3f&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;tTestResultDiffVar&lt;/span&gt;) #두 집단의 분산이 같지 않은 경우
 &lt;/pre&gt;&lt;/div&gt;
 
      &lt;/div&gt;
@@ -46009,6 +46009,7 @@ t-test의 귀무 가설은 '두 집단의 평균이 같다'이기 때문에 이�
         &lt;span class=&quot;n&quot;&gt;arrowprops&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;dict&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;facecolor&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;red&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;shrink&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;0.05&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;
 
 &lt;span class=&quot;n&quot;&gt;plt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;show&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+
 &lt;/pre&gt;&lt;/div&gt;
 
      &lt;/div&gt;
@@ -46076,12 +46077,10 @@ t-test의 귀무 가설은 '두 집단의 평균이 같다'이기 때문에 이�
 
 &lt;/html&gt;
 </description>
-        <pubDate>Mon, 10 Feb 2020 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000//drink</link>
-        <guid isPermaLink="true">http://localhost:4000//drink</guid>
+        <pubDate>Thu, 27 Feb 2020 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000//%EA%B5%AD%EA%B0%80%EB%B3%84-%EC%9D%8C%EC%A3%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D</link>
+        <guid isPermaLink="true">http://localhost:4000//%EA%B5%AD%EA%B0%80%EB%B3%84-%EC%9D%8C%EC%A3%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D</guid>
         
-        
-        <category>dastudy</category>
         
       </item>
     
@@ -46092,7 +46091,7 @@ t-test의 귀무 가설은 '두 집단의 평균이 같다'이기 때문에 이�
 &lt;head&gt;&lt;meta charset=&quot;utf-8&quot; /&gt;
 &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
 
-&lt;title&gt;chipotle&lt;/title&gt;&lt;script src=&quot;https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js&quot;&gt;&lt;/script&gt;
+&lt;title&gt;레스토랑 주문 데이터 분석&lt;/title&gt;&lt;script src=&quot;https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js&quot;&gt;&lt;/script&gt;
 
 
 
@@ -60570,7 +60569,7 @@ None
 &lt;div class=&quot;jp-CodeMirrorEditor jp-Editor jp-InputArea-editor&quot; data-type=&quot;inline&quot;&gt;
      &lt;div class=&quot;CodeMirror cm-s-jupyter&quot;&gt;
 &lt;div class=&quot; highlight hl-ipython3&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;chipo&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;order_id&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;chipo&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;order_id&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;astype&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;str&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;  &lt;span class=&quot;c1&quot;&gt;#order_id는 숫자의 의미를 가지고 있지 않기 때문에 문자(str)로 변환 &lt;/span&gt;
-&lt;span class=&quot;nb&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;chipo&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;describe&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;())&lt;/span&gt;  &lt;span class=&quot;c1&quot;&gt;#기초 통계량 출력&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;chipo&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;describe&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;())&lt;/span&gt;  &lt;span class=&quot;c1&quot;&gt;#기초 통계량 출력 &lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 
      &lt;/div&gt;
@@ -60820,7 +60819,7 @@ Name: quantity, dtype: int64&lt;/pre&gt;
 &lt;div class=&quot;jp-InputPrompt jp-InputArea-prompt&quot;&gt;In&amp;nbsp;[8]:&lt;/div&gt;
 &lt;div class=&quot;jp-CodeMirrorEditor jp-Editor jp-InputArea-editor&quot; data-type=&quot;inline&quot;&gt;
      &lt;div class=&quot;CodeMirror cm-s-jupyter&quot;&gt;
-&lt;div class=&quot; highlight hl-ipython3&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;matplotlib&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;inline&lt;/span&gt;
+&lt;div class=&quot; highlight hl-ipython3&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;matplotlib&lt;/span&gt; inline
 &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;numpy&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;np&lt;/span&gt;
 &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;matplotlib.pyplot&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;plt&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
@@ -61712,12 +61711,10 @@ Name: quantity, dtype: int64&lt;/pre&gt;
 
 &lt;/html&gt;
 </description>
-        <pubDate>Wed, 15 Jan 2020 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000//chipotle</link>
-        <guid isPermaLink="true">http://localhost:4000//chipotle</guid>
+        <pubDate>Sat, 08 Feb 2020 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000//%EB%A0%88%EC%8A%A4%ED%86%A0%EB%9E%91-%EC%A3%BC%EB%AC%B8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D</link>
+        <guid isPermaLink="true">http://localhost:4000//%EB%A0%88%EC%8A%A4%ED%86%A0%EB%9E%91-%EC%A3%BC%EB%AC%B8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D</guid>
         
-        
-        <category>dastudy</category>
         
       </item>
     
