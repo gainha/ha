@@ -5,13 +5,17 @@
     <description>portfolio</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 18 Oct 2020 18:22:00 +0900</pubDate>
-    <lastBuildDate>Sun, 18 Oct 2020 18:22:00 +0900</lastBuildDate>
+    <pubDate>Sun, 18 Oct 2020 18:37:16 +0900</pubDate>
+    <lastBuildDate>Sun, 18 Oct 2020 18:37:16 +0900</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
         <title>비트코인 시세 예측하기</title>
-        <description>&lt;script src=&quot;https://gist.github.com/gainha/b0cbf8215e5427aeba27bc996d7447ef.js&quot;&gt;&lt;/script&gt;
+        <description>&lt;html&gt;
+&lt;body&gt;
+	&lt;script src=&quot;https://gist.github.com/gainha/b0cbf8215e5427aeba27bc996d7447ef.js&quot;&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
 </description>
         <pubDate>Sat, 10 Oct 2020 00:00:00 +0900</pubDate>
         <link>http://localhost:4000//bitcoin</link>
@@ -25,88 +29,78 @@
       </item>
     
       <item>
-        <title>Salary</title>
-        <description>
----
-title : 프로야구 선수 연봉 예측
-search : true
-categories : [dastudy]
-tags : [data analysis]
-last_modified_at : 2020-03-28
-classes : wide
-author : Ga-in
----
-&lt;script src=&quot;https://gist.github.com/gainha/fc2b8fc6b9e8b96db95cdab51431a118.js&quot;&gt;&lt;/script&gt;
+        <title>프로야구 선수 연봉 예측</title>
+        <description>&lt;html&gt;
+&lt;body&gt;
+	&lt;script src=&quot;https://gist.github.com/gainha/fc2b8fc6b9e8b96db95cdab51431a118.js&quot;&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
 </description>
         <pubDate>Sat, 28 Mar 2020 00:00:00 +0900</pubDate>
         <link>http://localhost:4000//salary</link>
         <guid isPermaLink="true">http://localhost:4000//salary</guid>
         
+        <category>data analysis</category>
+        
+        
+        <category>dastudy</category>
         
       </item>
     
       <item>
-        <title>Drink(2)</title>
-        <description>
----
-title : 국가별 음주 데이터 분석 연습문제
-search : true
-categories : [dastudy]
-tags : [data analysis]
-last_modified_at : 2020-03-15
-classes : wide
-author : Ga-in
----
-
-&lt;script src=&quot;https://gist.github.com/gainha/50e062d4d3ad226e3ce5cca648dabbed.js&quot;&gt;&lt;/script&gt;
+        <title>국가별 음주 데이터 분석 연습문제</title>
+        <description>&lt;html&gt;
+&lt;body&gt;
+    &lt;script src=&quot;https://gist.github.com/gainha/50e062d4d3ad226e3ce5cca648dabbed.js&quot;&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
 </description>
         <pubDate>Sun, 15 Mar 2020 00:00:00 +0900</pubDate>
         <link>http://localhost:4000//drink(2)</link>
         <guid isPermaLink="true">http://localhost:4000//drink(2)</guid>
         
+        <category>data analysis</category>
+        
+        
+        <category>dastudy</category>
         
       </item>
     
       <item>
-        <title>Drink</title>
-        <description>
----
-title : 국가별 음주 데이터 분석
-search : true
-categories : [dastudy]
-tags : [data analysis]
-last_modified_at : 2020-02-27
-classes : wide
-author : Ga-in
----
-
-&lt;script src=&quot;https://gist.github.com/gainha/352e83d38b6aa736bba0cc2f7db2af78.js&quot;&gt;&lt;/script&gt;
+        <title>국가별 음주 데이터 분석</title>
+        <description>&lt;html&gt;
+&lt;body&gt;
+	&lt;script src=&quot;https://gist.github.com/gainha/352e83d38b6aa736bba0cc2f7db2af78.js&quot;&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
 </description>
         <pubDate>Thu, 27 Feb 2020 00:00:00 +0900</pubDate>
         <link>http://localhost:4000//drink</link>
         <guid isPermaLink="true">http://localhost:4000//drink</guid>
         
+        <category>data analysis</category>
+        
+        
+        <category>dastudy</category>
         
       </item>
     
       <item>
-        <title>Chipotle</title>
-        <description>
----
-title : 레스토랑 주문 데이터 분석
-search : true
-categories : [dastudy]
-tags : [data analysis]
-last_modified_at : 2020-02-08
-classes : wide
-author : Ga-in
----
-&lt;script src=&quot;https://gist.github.com/gainha/2ef8f7c1be89599683956eab7b69f571.js&quot;&gt;&lt;/script&gt;
+        <title>레스토랑 주문 데이터 분석</title>
+        <description>&lt;html&gt;
+&lt;body&gt;
+	&lt;script src=&quot;https://gist.github.com/gainha/2ef8f7c1be89599683956eab7b69f571.js&quot;&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
 </description>
         <pubDate>Sat, 08 Feb 2020 00:00:00 +0900</pubDate>
         <link>http://localhost:4000//chipotle</link>
         <guid isPermaLink="true">http://localhost:4000//chipotle</guid>
         
+        <category>data analysis</category>
+        
+        
+        <category>dastudy</category>
         
       </item>
     
