@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>http://localhost:4000/bitcoin</loc>
+      <loc>http://localhost:4000/dastudy/bitcoin</loc>
       
         <lastmod>2020-10-10T00:00:00+09:00</lastmod>
       
@@ -18,7 +18,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/salary</loc>
+      <loc>http://localhost:4000/dastudy/salary</loc>
       
         <lastmod>2020-03-28T00:00:00+09:00</lastmod>
       
@@ -34,7 +34,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/drink(2)</loc>
+      <loc>http://localhost:4000/dastudy/drink(2)</loc>
       
         <lastmod>2020-03-15T00:00:00+09:00</lastmod>
       
@@ -50,7 +50,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/drink</loc>
+      <loc>http://localhost:4000/dastudy/drink</loc>
       
         <lastmod>2020-02-27T00:00:00+09:00</lastmod>
       
@@ -66,7 +66,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/chipotle</loc>
+      <loc>http://localhost:4000/dastudy/chipotle</loc>
       
         <lastmod>2020-02-08T00:00:00+09:00</lastmod>
       
